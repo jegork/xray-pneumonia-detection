@@ -7,3 +7,10 @@ The possible models are:
 - Pretrained Image Classification networks like VGG, ResNet, Inception
 - Vision Transformers ([Dosovitskiy et al., 2020](https://arxiv.org/abs/2010.11929))
 - Siamese Networks
+
+### TODO
+
+Possible fixes:
+- Change image size in data loading
+- Change imag size in preprocessing
+- Gather more data for normal class
