@@ -1,1 +1,2 @@
 cnn_model_checkpoints/** filter=lfs diff=lfs merge=lfs -text
+inception_model_checkpoints/** filter=lfs diff=lfs merge=lfs -text
