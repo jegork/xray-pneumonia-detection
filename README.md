@@ -8,9 +8,19 @@ The possible models are:
 - Vision Transformers ([Dosovitskiy et al., 2020](https://arxiv.org/abs/2010.11929))
 - Siamese Networks
 
+## Results
+
+| Model | Training accuracy (%) | Test accuracy (%) |
+| --- | :---: | :---: |
+| Custom ConvNet | 97 | 94 |
+| Fine-tuned Inception | 93 | 91 |
+| Fine-tuned Vision Transformer | | 84 |
+
+
 ### TODO
 
 Possible fixes:
 - Change image size in data loading
 - Change imag size in preprocessing
 - Gather more data for normal class
+
